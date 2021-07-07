@@ -6,7 +6,7 @@ This repository contains notebooks that help you get started with the GLAM Workb
 
 * [**Using Jupyter notebooks in the GLAM Workbench**](Using_Jupyter_notebooks.ipynb) – learn how to run real, live code in a Jupyter noteboook, then grab some real, live data from the National Museum of Australia API.
 
-This repository also includes copies of the Python Basics notebooks developed by Nathan Kelber and Ted Lawless for Ithaka's Constellate platform:
+This repository also includes copies of the Python Basics notebooks developed by [Nathan Kelber](http://nkelber.com) and Ted Lawless for [JSTOR Labs](https://labs.jstor.org/) under [Creative Commons CC BY License](https://creativecommons.org/licenses/by/4.0/):
 
 * [**Getting started with Jupyter**](getting-started-with-jupyter.ipynb)
 * [**Python Basics 1**](python-basics-1.ipynb) – describes operators, expressions, data types, variables, and basic functions.
